@@ -30,3 +30,10 @@ The fundamental user experience design reveals three essential stages which user
 when they search for locations and check accessible workspace features before they can book or assess spaces.
 The core user journey begins with users finding locations and they proceed to detailed workspace features and finally 
 they reach the booking and review interface. 
+
+Group Names:
+
+Mohammad aljuwair - 2240006309
+Abdulaziz Aldossary - 2240007946
+Mohammad alrasasi - 2240004034
+Yazid alqahtani - 2240004828
