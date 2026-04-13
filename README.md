@@ -31,13 +31,9 @@ when they search for locations and check accessible workspace features before th
 The core user journey begins with users finding locations and they proceed to detailed workspace features and finally 
 they reach the booking and review interface. 
 
-Group Names:
+## Team Members
 
-Mohammad aljuwair 
-2240006309
-Abdulaziz Aldossary 
-2240007946
-Mohammad alrasasi
-2240004034
-Yazid alqahtani 
-2240004828
+* **Mohammad aljuwair** - 2240006309
+* **Abdulaziz Aldossary** - 2240007946
+* **Mohammad alrasasi** - 2240004034
+* **Yazid alqahtani** - 2240004828
